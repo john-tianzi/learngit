@@ -1,5 +1,0 @@
-Hello World!
-Goodby World!
-I'm here again World!
-OK i just wanna test this tool git
-how to use "diff"
