@@ -1,2 +1,8 @@
 the second demo
+<<<<<<< HEAD
 learn branch master
+=======
+learn branch
+fix clash
+>>>>>>> feature1
+try to fix clash
