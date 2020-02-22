@@ -4,3 +4,4 @@ I'm here again World!
 OK i just wanna test this tool git
 how to use "diff"
 what's the differenc between the stage(index) and HEAD
+test "diff" one more time
